@@ -42,3 +42,10 @@ end
 always @(dddd) begin
     
 end
+    
+module ASKDASKFAKSFKKFKK (
+    ports
+);
+    
+endmodule
+
